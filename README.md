@@ -44,7 +44,7 @@ Generate visualizations (heatmaps)
 ## Output Files
 
 All generated outputs will be saved in the data/ folder:
-
+```
 data/
 ├── raw_outputs.json
 ├── parsed_personas.json
@@ -52,6 +52,7 @@ data/
 ├── personas_data.csv
 ├── final_personas_with_prompt2_iteration.csv
 └── final_personas_selected_only.csv
+```
 
 # Note:
 Due to GPU issue the full code was executued in my google colab where I have boought GPU units for this purpose. Hence, clear git long might not be visible here.
