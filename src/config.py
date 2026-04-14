@@ -35,6 +35,9 @@ PERSONAS_CSV = DATA_DIR / "personas_data.csv"
 PHISHING_JSON = DATA_DIR / "final_phishing_audit_results.json"
 ITERATION_CSV = DATA_DIR / "final_personas_with_prompt2_iteration.csv"
 SELECTED_ONLY_CSV = DATA_DIR / "final_personas_selected_only.csv"
+RAW_OUTPUTS_JSON = DATA_DIR / "raw_outputs.json"
+PARSED_PERSONAS_JSON = DATA_DIR / "parsed_personas.json"
+PHISHING_RESULTS_JSON = DATA_DIR / "final_phishing_audit_results.json"
 
 STEP1_BNB_CONFIG = BitsAndBytesConfig(
     load_in_4bit=True,
