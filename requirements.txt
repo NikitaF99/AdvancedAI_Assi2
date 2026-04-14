@@ -1,0 +1,23 @@
+# Core
+python-dotenv
+
+# ML / Models
+torch
+transformers
+accelerate
+bitsandbytes
+sentencepiece
+
+# Data processing
+pandas
+numpy
+
+# API
+groq
+
+# Statistics
+scipy
+
+# Visualization
+matplotlib
+seaborn
