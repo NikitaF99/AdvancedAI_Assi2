@@ -1,5 +1,6 @@
 # Assignment 2 
 
+
 ## Install dependencies
 
 Run the following command to install dependencies
@@ -56,3 +57,5 @@ data/
 
 # Note:
 Due to GPU issue the full code was executued in my google colab where I have boought GPU units for this purpose. Hence, clear git long might not be visible here.
+
+# Author : Infant Mysytica Nikita Fernando - a1962080
